@@ -112,3 +112,86 @@ footer img    {
   margin-right: 20px;
   font-size: 28px;
 }
+
+.site-section   {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.site-section-secondary     {
+    background: #EFEFEF;
+}
+
+.site-section-inside     {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+}
+
+.section-header    {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.section-header h2     {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: #777;
+}
+
+.feature-box    {
+  display: inline-block;
+  width: 33%;
+  padding: 20px 30px;
+  line-height: 1;
+  text-align: center;
+}
+
+.feature-box img    {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+.feature-box h5     {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.testimonial-box    {
+  display: inline-block;
+  width: 33%;
+  padding: 20px 30px;
+}
+
+.testimonial-content   {
+  background: #FFF;
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+.testimonial-author h5    {
+  font-size: 20px;
+  margin: 0;
+  padding-top: 15px;
+}
+
+.testimonial-author  img     {
+  float: left;
+  width: 80px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.testimonial-author span    {
+  color: #999;
+  font-size: 14px;
+}
