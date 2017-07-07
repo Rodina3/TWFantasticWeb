@@ -195,3 +195,45 @@ footer img    {
   color: #999;
   font-size: 14px;
 }
+
+/*responsive*/
+
+/*mobile*/
+
+@media screen and (max-width: 768px) {
+
+  header #logo    {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  header #main-navigation     {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  .hero-title     {
+    font-size: 60px;
+  }
+
+  .hero-content p     {
+    font-size: 40px;
+  }
+
+  .hero     {
+    min-height: 500px;
+  }
+
+  .feature-box    {
+    display: block;
+    width: 100%;
+  }
+
+  .testimonial-box     {
+    display: block;
+    width: 100%;
+  }
+}
